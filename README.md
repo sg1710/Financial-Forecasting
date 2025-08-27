@@ -123,6 +123,6 @@ Optimize Marketing Spend → ensure ROI-driven campaigns
 
 Control Administrative Costs → minimal impact on profit
 
-🤝 Contributing
+# Contributing :
 
 Contributions are welcome! Please open an issue or submit a pull request.
