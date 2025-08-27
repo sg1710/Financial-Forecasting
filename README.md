@@ -112,7 +112,8 @@ jupyter notebook Financial_Forecasting.ipynb
 
 4. View Dashboard
 
-Open the Tableau workbook (Financial_Forecast.twbx) or access it via Tableau Public link.
+Open the Tableau workbook (Financial_Forecast.twbx) or 
+# access it via Tableau Public link : https://public.tableau.com/app/profile/sg1710/vizzes
 
 # Business Recommendations :
 
