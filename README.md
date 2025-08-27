@@ -101,7 +101,7 @@ Expense Breakdown
 # How to Run the Project:
 
 1. Clone Repository
-git clone https://github.com/your-username/financial-forecasting.git
+git clone https://github.com/sg1710/financial-forecasting.git
 cd financial-forecasting
 
 2. Install Dependencies
