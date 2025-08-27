@@ -1,0 +1,37 @@
+# Datasets :
+
+This folder contains datasets used in the Financial Forecasting and Customer Churn Prediction projects.
+
+# Available Datasets :
+
+1. 50_Startups.csv
+
+Description: Contains company expenditure and profit details.
+
+# Columns :
+
+R&D Spend – Research & Development expenditure
+
+Administration – Administrative costs
+
+Marketing Spend – Marketing expenditure
+
+State – Company location
+
+Profit – Company revenue (target variable)
+
+Use Case: Used for Financial Forecasting (Regression & Time Series).
+
+2. Financial_Forecast.xlsx
+
+Description: Extended dataset with financial metrics for time series forecasting.
+
+# Columns :
+
+Date – Time period
+
+Revenue – Company revenue
+
+Expenses – Company expenses
+
+Use Case: Used for trend analysis and future revenue prediction in Tableau & Python.
