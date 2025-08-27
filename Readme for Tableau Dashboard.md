@@ -1,6 +1,6 @@
 # Financial Forecasting Dashboard :
 
-Goal: Visualize historical company performance and forecast future revenue & expenses.
+# Goal: Visualize historical company performance and forecast future revenue & expenses.
 
 # Key Charts:
 
