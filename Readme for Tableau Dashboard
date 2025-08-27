@@ -1,0 +1,13 @@
+# Financial Forecasting Dashboard :
+
+Goal: Visualize historical company performance and forecast future revenue & expenses.
+
+# Key Charts:
+
+Revenue & Expenses Trend (Line Chart) – shows historical growth with forecast projection.
+
+Top Cost Drivers (Bar Chart) – highlights R&D, Marketing, and Admin expenses.
+
+Profit Margin (%) Over Time (Area Chart) – measures financial health.
+
+Forecast vs Actual (Dual Line Chart) – compares predictions with real performance.
